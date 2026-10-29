@@ -1,0 +1,8 @@
+pymupdf
+python-docx
+python-pptx
+sentence-transformers
+chromadb
+tqdm
+rank-bm25
+streamlit
